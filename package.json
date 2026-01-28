@@ -15,5 +15,14 @@
     "fetch": "^1.1.0",
     "node": "^25.5.0",
     "node-fetch": "^3.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thallamnithvik2900-droid/ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thallamnithvik2900-droid/ai/issues"
+  },
+  "homepage": "https://github.com/thallamnithvik2900-droid/ai#readme"
 }
